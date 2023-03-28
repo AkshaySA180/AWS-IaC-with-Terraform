@@ -28,7 +28,7 @@ module "vpc" {
     Name = "DB-Subnet"
   }
   vpc_tags = {
-    Name = "VPC-Demo-1"
+    Name = "${var.vpc_name}"
   }
   tags = {
     Owner = "Akshay"
