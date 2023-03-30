@@ -4,7 +4,7 @@
 
 ### Explanations of each section's implementations are done via my Youtube channel. 
 
-### YouTube AWS-IaC-with-Terraform playlist: 
+### My YouTube channel's AWS-IaC-with-Terraform playlist: 
 https://www.youtube.com/playlist?list=PLkvdOJulHfxXOb9Xe6Rc9mH4749u1HzMi
 
 ### In the above YT Playlist, I have explained each & every Terraform scripts/manifests for all the below services & their implementations:
