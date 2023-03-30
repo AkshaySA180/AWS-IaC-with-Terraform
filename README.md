@@ -1,4 +1,4 @@
-## AWS-IaC-with-Terraform
+## AWS Infrastructure-As-Code (IaC) with Terraform
 
 ### In this series, I will implementing several AWS services like VPC, EC2, Load Balancers, Autoscaling templates, Cloud Watch, modules using Terraform.
 
