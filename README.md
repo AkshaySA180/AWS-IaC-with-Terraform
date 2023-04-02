@@ -10,7 +10,7 @@ https://www.youtube.com/playlist?list=PLkvdOJulHfxXOb9Xe6Rc9mH4749u1HzMi
 LinkedIn: https://www.linkedin.com/in/akshayashok1991/
 
 ## Index:
-### In the above YT Playlist, I have explained each & every Terraform scripts/manifests for all the below services & their implementations:
+### In my above YouTube Playlist, I have explained each & every Terraform scripts/manifests for all the below services & their implementations:
 01. AWS VPC 3-Tier Architecture
 02. AWS EC2 Instances and Security Groups in a VPC
 03. AWS Classic Load Balancer
