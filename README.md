@@ -7,6 +7,9 @@
 ### My YouTube channel's AWS-IaC-with-Terraform playlist: 
 https://www.youtube.com/playlist?list=PLkvdOJulHfxXOb9Xe6Rc9mH4749u1HzMi
 
+LinkedIn: https://www.linkedin.com/in/akshayashok1991/
+
+## Index:
 ### In the above YT Playlist, I have explained each & every Terraform scripts/manifests for all the below services & their implementations:
 01. AWS VPC 3-Tier Architecture
 02. AWS EC2 Instances and Security Groups in a VPC
@@ -25,4 +28,3 @@ https://www.youtube.com/playlist?list=PLkvdOJulHfxXOb9Xe6Rc9mH4749u1HzMi
 15. Remote State Storage with AWS S3 and DynamoDB
 16. Terraform Remote State Datasource
 
-LinkedIn: https://www.linkedin.com/in/akshayashok1991/
