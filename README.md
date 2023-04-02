@@ -24,3 +24,5 @@ https://www.youtube.com/playlist?list=PLkvdOJulHfxXOb9Xe6Rc9mH4749u1HzMi
 14. Develop Terraform Module from scratch
 15. Remote State Storage with AWS S3 and DynamoDB
 16. Terraform Remote State Datasource
+
+LinkedIn: https://www.linkedin.com/in/akshayashok1991/
