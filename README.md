@@ -1,13 +1,13 @@
+### My YouTube channel's AWS-IaC-with-Terraform playlist: 
+https://www.youtube.com/playlist?list=PLkvdOJulHfxXOb9Xe6Rc9mH4749u1HzMi
+
+LinkedIn: https://www.linkedin.com/in/akshayashok1991/
+
 ## AWS Infrastructure-As-Code (IaC) with Terraform
 
 ### In this series, I have implemented several AWS services like VPC, EC2, Load Balancers, Autoscaling templates, Cloud Watch, modules using Terraform.
 
 ### Explanations of each section's implementations are done via my Youtube channel. 
-
-### My YouTube channel's AWS-IaC-with-Terraform playlist: 
-https://www.youtube.com/playlist?list=PLkvdOJulHfxXOb9Xe6Rc9mH4749u1HzMi
-
-LinkedIn: https://www.linkedin.com/in/akshayashok1991/
 
 ## Index:
 ### In my above YouTube Playlist, I have explained each & every Terraform scripts/manifests for all the below services & their implementations:
