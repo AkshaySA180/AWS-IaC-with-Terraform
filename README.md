@@ -19,12 +19,4 @@ LinkedIn: https://www.linkedin.com/in/akshayashok1991/
 06. AWS ALB Host-Header based Routing
 07. AWS ALB HTTP Header and Query String Redirects
 08. AWS DNS to DB Implementation
-09. AWS Autoscaling with Launch Configuration
-10. AWS Autoscaling with Launch Templates
-11. AWS Network Load Balancer with TCP and TLS
-12. AWS CloudWatch Alarms for ALB, ASG and CIS
-13. Develop and Reference Terraform Modules locally
-14. Develop Terraform Module from scratch
-15. Remote State Storage with AWS S3 and DynamoDB
-16. Terraform Remote State Datasource
 
